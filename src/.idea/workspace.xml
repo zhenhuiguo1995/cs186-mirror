@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d8b945-4ff7-4b24-b136-720f7b7b0c16" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/main/java/edu/berkeley/cs186/database/databox/StringDataBox.java" beforeDir="false" afterPath="$PROJECT_DIR$/main/java/edu/berkeley/cs186/database/databox/StringDataBox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../test.txt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,9 +16,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/java/edu/berkeley/cs186/database/databox/StringDataBox.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="1188">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
               <folding>
+                <element signature="e#1409#1410#0" expanded="true" />
                 <element signature="e#1433#1434#0" expanded="true" />
               </folding>
             </state>
@@ -75,17 +76,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-              <item name="databox" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="src" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -122,16 +112,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574200961112</updated>
-      <workItem from="1574200963620" duration="422000" />
+      <workItem from="1574200963620" duration="1042000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="422000" />
+    <option name="totallyTimeSpent" value="1042000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="0" width="1848" height="1080" extended-state="6" />
-    <editor active="true" />
+    <frame x="72" y="0" width="1848" height="1080" extended-state="7" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -169,9 +158,10 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main/java/edu/berkeley/cs186/database/databox/StringDataBox.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="1188">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
           <folding>
+            <element signature="e#1409#1410#0" expanded="true" />
             <element signature="e#1433#1434#0" expanded="true" />
           </folding>
         </state>
