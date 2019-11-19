@@ -44,7 +44,6 @@ public class StringDataBox extends DataBox {
 
     @Override
     public String toString() {
-        // TODO(hw0): replace with return s;
         return s;
     }
 
